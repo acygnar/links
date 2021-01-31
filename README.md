@@ -22,3 +22,5 @@ https://crocoder.pl/blog/wordpress/petla-wordpress-wyswietlanie-wpisow-na-stroni
 https://code-tribe.com/get-posts-from-custom-post-type/     <-- get posts
 
 https://hostclub.pl/wordpress-child-theme/
+
+https://element.how/elementor-mega-menu-free-no-plugins/   <-- darmowe hambunger menu dla ELEMENTOR
