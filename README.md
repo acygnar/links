@@ -24,3 +24,7 @@ https://code-tribe.com/get-posts-from-custom-post-type/     <-- get posts
 https://hostclub.pl/wordpress-child-theme/
 
 https://element.how/elementor-mega-menu-free-no-plugins/   <-- darmowe hambunger menu dla ELEMENTOR
+
+https://www.base64-image.de     formatowanie img do base64
+
+
