@@ -27,4 +27,6 @@ https://element.how/elementor-mega-menu-free-no-plugins/   <-- darmowe hambunger
 
 https://www.base64-image.de     formatowanie img do base64
 
+https://www.sourcetreeapp.com/  pomoc przy GIT
+
 
