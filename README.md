@@ -31,3 +31,5 @@ https://www.sourcetreeapp.com/  pomoc przy GIT
 
 https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=pl    wtyczka do pixel perfect
 
+https://snippet-generator.app/    VSC Generowanie snippet
+
