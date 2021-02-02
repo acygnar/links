@@ -1,0 +1,20 @@
+/////settings.json//////
+
+{
+  "files.associations": {
+    "*.module": "php"
+  },
+
+  "editor.formatOnSave": true,
+  "[scss]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "git.enableSmartCommit": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+
+  "intelephense.stubs": ["wordpress"]
+}
