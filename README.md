@@ -29,4 +29,5 @@ https://www.base64-image.de     formatowanie img do base64
 
 https://www.sourcetreeapp.com/  pomoc przy GIT
 
+https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=pl    wtyczka do pixel perfect
 
