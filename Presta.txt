@@ -1,0 +1,33 @@
+Homepage
+
+Index.tpl , page.tpl
+
+Widok produktu
+
+themes/classic/templates/catalog/product.tpl		pojedynczy produkt
+
+themes/classic/templates/catalog/product-list.tpl		lista produktów
+
+classic/templates/catalog/_partials/quickview.tpl		Szybki podgląd produktu 
+
+Widok kategorii
+
+Category.tpl —> category-header --> productlist
+
+
+
+
+Pojedyncze strony : o nas, polityka prywatności
+
+Page.tpl
+
+Checkout - widok koszyka, widok uzupełniania danych 
+
+classic/templates/checkout
+
+Checkout/cart.tpl	widok koszyka
+
+Checkout/checkout.tpl
+
+
+
