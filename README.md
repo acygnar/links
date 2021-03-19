@@ -33,3 +33,6 @@ https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdm
 
 https://snippet-generator.app/    VSC Generowanie snippet
 
+
+https://pomoc.home.pl/baza-wiedzy/ustawienie-interpretera-skryptow-za-pomoca-htaccess.   zmiana wersji PHP w htacces na HOME.pl
+
